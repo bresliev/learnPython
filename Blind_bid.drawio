@@ -1,1 +1,92 @@
-<mxfile host="app.diagrams.net" modified="2020-12-27T21:51:56.762Z" agent="5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.1.1" etag="ARzymIW4eD72DbtcJExt" type="github"><diagram id="Z2IWJRshri9tFYZDIlW9">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-27T22:02:12.917Z" agent="5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="6zjM7n-Pl-ebCAEd1xcM" version="14.1.1" type="github">
+  <diagram id="Z2IWJRshri9tFYZDIlW9" name="Page-1">
+    <mxGraphModel dx="1824" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WsKTUypi6Dl1G4ZVNwFC-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WsKTUypi6Dl1G4ZVNwFC-1" target="WsKTUypi6Dl1G4ZVNwFC-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WsKTUypi6Dl1G4ZVNwFC-1" value="Start the bid" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WsKTUypi6Dl1G4ZVNwFC-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WsKTUypi6Dl1G4ZVNwFC-2" target="WsKTUypi6Dl1G4ZVNwFC-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WsKTUypi6Dl1G4ZVNwFC-2" value="Ask for the bider name" style="whiteSpace=wrap;html=1;rounded=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="290" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WsKTUypi6Dl1G4ZVNwFC-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WsKTUypi6Dl1G4ZVNwFC-4" target="WsKTUypi6Dl1G4ZVNwFC-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WsKTUypi6Dl1G4ZVNwFC-4" value="Ask for the bid" style="whiteSpace=wrap;html=1;rounded=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="290" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WsKTUypi6Dl1G4ZVNwFC-11" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WsKTUypi6Dl1G4ZVNwFC-6" target="WsKTUypi6Dl1G4ZVNwFC-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WsKTUypi6Dl1G4ZVNwFC-26" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WsKTUypi6Dl1G4ZVNwFC-6" target="WsKTUypi6Dl1G4ZVNwFC-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WsKTUypi6Dl1G4ZVNwFC-6" value="is there more biders?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="310" y="480" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WsKTUypi6Dl1G4ZVNwFC-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WsKTUypi6Dl1G4ZVNwFC-10" target="WsKTUypi6Dl1G4ZVNwFC-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WsKTUypi6Dl1G4ZVNwFC-10" value="Read the first bider bid" style="whiteSpace=wrap;html=1;rounded=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="465" y="495" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WsKTUypi6Dl1G4ZVNwFC-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WsKTUypi6Dl1G4ZVNwFC-12" target="WsKTUypi6Dl1G4ZVNwFC-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WsKTUypi6Dl1G4ZVNwFC-12" value="Set it as max" style="whiteSpace=wrap;html=1;rounded=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="465" y="635" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WsKTUypi6Dl1G4ZVNwFC-17" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WsKTUypi6Dl1G4ZVNwFC-14" target="WsKTUypi6Dl1G4ZVNwFC-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WsKTUypi6Dl1G4ZVNwFC-20" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WsKTUypi6Dl1G4ZVNwFC-14" target="WsKTUypi6Dl1G4ZVNwFC-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WsKTUypi6Dl1G4ZVNwFC-14" value="is tehere more biders in list" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="485" y="765" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WsKTUypi6Dl1G4ZVNwFC-16" value="Show the max bid" style="whiteSpace=wrap;html=1;rounded=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="190" y="775" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WsKTUypi6Dl1G4ZVNwFC-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WsKTUypi6Dl1G4ZVNwFC-19" target="WsKTUypi6Dl1G4ZVNwFC-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WsKTUypi6Dl1G4ZVNwFC-19" value="Read the next bid" style="whiteSpace=wrap;html=1;rounded=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="625" y="775" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WsKTUypi6Dl1G4ZVNwFC-23" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="WsKTUypi6Dl1G4ZVNwFC-21" target="WsKTUypi6Dl1G4ZVNwFC-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="780" y="945" />
+              <mxPoint x="780" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WsKTUypi6Dl1G4ZVNwFC-24" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WsKTUypi6Dl1G4ZVNwFC-21" target="WsKTUypi6Dl1G4ZVNwFC-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WsKTUypi6Dl1G4ZVNwFC-21" value="Is the bid greater then the previoust" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="620" y="905" width="105" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="WsKTUypi6Dl1G4ZVNwFC-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WsKTUypi6Dl1G4ZVNwFC-25" target="WsKTUypi6Dl1G4ZVNwFC-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WsKTUypi6Dl1G4ZVNwFC-25" value="Clear screen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
