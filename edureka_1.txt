@@ -1,1 +1,3 @@
-This is file for git purposess.
+this is file for git purposess.
+
+Adding a new line .
