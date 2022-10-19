@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c312c3c-adc7-459d-b0e4-5bf0fcaee708" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Mail-merge/.idea/Mail-merge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../central-park-squirrels-daaay-26/analyse-squirrels/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../central-park-squirrels-daaay-26/analyse-squirrels/.idea/analyse-squirrels.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../central-park-squirrels-daaay-26/analyse-squirrels/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../central-park-squirrels-daaay-26/analyse-squirrels/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../central-park-squirrels-daaay-26/analyse-squirrels/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../central-park-squirrels-daaay-26/analyse-squirrels/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../central-park-squirrels-daaay-26/analyse-squirrels/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../central-park-squirrels-daaay-26/analyse-squirrels/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fuckin-snake-game-high-score/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fuckin-snake-game-high-score/.idea/fuckin-snake-game-high-score.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fuckin-snake-game-high-score/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fuckin-snake-game-high-score/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fuckin-snake-game-high-score/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fuckin-snake-game-high-score/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fuckin-snake-game-high-score/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fuckin-snake-game-high-score/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fuckin-snake-game-high-score/game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fuckin-snake-game-high-score/high_score.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fuckin-snake-game-high-score/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fuckin-snake-game-high-score/score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fuckin-snake-game-high-score/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pong/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pong/.idea/PawAdvisorSettingsPlugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pong/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pong/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pong/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pong/.idea/pong.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pong/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pong/ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pong/game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pong/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pong/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pong/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reading-CSV-day-255/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reading-CSV-day-255/.idea/reading-CSV-day-25.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fuckin-snake-game/food.py" beforeDir="false" afterPath="$PROJECT_DIR$/../fuckin-snake-game/food.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fuckin-snake-game/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/../fuckin-snake-game/game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fuckin-snake-game/score.py" beforeDir="false" afterPath="$PROJECT_DIR$/../fuckin-snake-game/score.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fuckin-snake-game/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/../fuckin-snake-game/snake.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GMPbbFviBq6dWSjhvUjo4yl7Mk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PythonContentEntriesConfigurable"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c312c3c-adc7-459d-b0e4-5bf0fcaee708" name="Changes" comment="" />
+      <created>1666195554365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666195554365</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

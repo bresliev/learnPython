@@ -10,7 +10,6 @@ class Game:
         screen.tracer(0)
         self.game_is_on = True
         self.my_snake = Snake()
-        self.my_snake.create_snake()
         self.food = Food()
         self.score = Score()
         screen.update()
@@ -27,18 +26,14 @@ class Game:
             self.my_snake.add_a_segment()
 
     def collision_with_wall(self):
-        if self.my_snake.head.xcor() > 280 or self.my_snake.head.xcor() < -280 or self.my_snake.head.ycor() > 280 or self.my_snake.head.ycor() < -280:
-            self.game_is_on = False
+        if self.my_snake.head.xcor() > 280 or self.my_snake.head.xcor() < -280 or self.my_snake.head.ycor() > 280 \
+                or self.my_snake.head.ycor() < -280:
             self.score.reset()
-            self.my_snake.reset()
 
     def collision_with_itself(self):
         for segment in self.my_snake.body[1:]:
             if self.my_snake.head.distance(segment) < 10:
-                self.game_is_on = False
                 self.score.reset()
-                self.my_snake.reset()
-
 
     def run_the_game(self, screen):
         while self.game_is_on:
@@ -46,5 +41,5 @@ class Game:
             self.collision_detection()
             self.collision_with_wall()
             self.collision_with_itself()
-            time.sleep(0.15)
+            time.sleep(0.1)
             screen.update()

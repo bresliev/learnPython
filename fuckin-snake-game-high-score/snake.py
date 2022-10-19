@@ -1,12 +1,10 @@
+import time
 from turtle import Turtle
 
 
 class Snake:
     def __init__(self):
-        self.head = None
         self.body = []
-
-    def create_snake(self):
         for idx in range(0, 3):
             segment = Turtle("square")
             segment.color("white")
@@ -40,9 +38,3 @@ class Snake:
 
     def left(self):
         self.head.setheading(180)
-
-    def reset(self):
-        for segment in self.body:
-            segment.goto(1000, 1000)
-        self.body.clear()
-        self.create_snake()
