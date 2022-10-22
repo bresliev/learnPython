@@ -2,47 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c312c3c-adc7-459d-b0e4-5bf0fcaee708" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Mail-merge/.idea/Mail-merge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../central-park-squirrels-daaay-26/analyse-squirrels/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../central-park-squirrels-daaay-26/analyse-squirrels/.idea/analyse-squirrels.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../central-park-squirrels-daaay-26/analyse-squirrels/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../central-park-squirrels-daaay-26/analyse-squirrels/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../central-park-squirrels-daaay-26/analyse-squirrels/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../central-park-squirrels-daaay-26/analyse-squirrels/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../central-park-squirrels-daaay-26/analyse-squirrels/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../central-park-squirrels-daaay-26/analyse-squirrels/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fuckin-snake-game-high-score/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fuckin-snake-game-high-score/.idea/fuckin-snake-game-high-score.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fuckin-snake-game-high-score/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fuckin-snake-game-high-score/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fuckin-snake-game-high-score/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fuckin-snake-game-high-score/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fuckin-snake-game-high-score/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fuckin-snake-game-high-score/food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fuckin-snake-game-high-score/game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fuckin-snake-game-high-score/high_score.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fuckin-snake-game-high-score/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fuckin-snake-game-high-score/score.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fuckin-snake-game-high-score/snake.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pong/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pong/.idea/PawAdvisorSettingsPlugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pong/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pong/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pong/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pong/.idea/pong.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pong/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pong/ball.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pong/game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pong/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pong/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pong/scoreboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reading-CSV-day-255/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reading-CSV-day-255/.idea/reading-CSV-day-25.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fuckin-snake-game/food.py" beforeDir="false" afterPath="$PROJECT_DIR$/../fuckin-snake-game/food.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fuckin-snake-game/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/../fuckin-snake-game/game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fuckin-snake-game/score.py" beforeDir="false" afterPath="$PROJECT_DIR$/../fuckin-snake-game/score.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fuckin-snake-game/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/../fuckin-snake-game/snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reading-CSV-day-255/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reading-CSV-day-255/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reading-CSV-day-255/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reading-CSV-day-255/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reading-CSV-day-255/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reading-CSV-day-255/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reading-CSV-day-255/.idea/reading-CSV-day-25.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reading-CSV-day-255/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reading-CSV-day-255/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reading-CSV-day-255/weather_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +35,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Nikola/Learning/Python/appbrewery/reading-CSV-day-25",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PythonContentEntriesConfigurable"
   }
 }]]></component>
