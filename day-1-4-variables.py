@@ -1,20 +1,31 @@
-# import random, art and game_data
-import random
-import art
-import game_data
-#show the logo
-print(art.logo)
-# create a two elemnts array for the current competiotors
-a_vs_b = []
-# write a function to select an element from the game data but not one of the already chosen
-def chose_an_element():
-    element = random.randint(0, len(game_data.data))
-    while element in a_vs_b:
-        chose_an_element()
-        return game_data.data[element]
+import pandas
 
-#at the begining of the game insert two elements in to the competitors array
-a_vs_b.append(chose_an_element())
-a_vs_b.append(chose_an_element())
+def encode():
+    word = list(input("Enter the word, please: "))
+    print(word)
+    df = pandas.read_csv("nato_phonetic_alphabet.csv")
+    nato_alphabet_dict = {row.letter: row.code for (index, row) in df.iterrows()}
+    print(nato_alphabet_dict)
+    nato_coded = ''
+    for letter in word:
+        print(f"Das ist word: {word}")
+        try:
+            code = nato_alphabet_dict[letter.upper()]
+            print(f"Letter is {letter.upper()} and the code is {code}")
+        except KeyError:
+            print("Sorry, only letters in the alphabet please.")
+            nato_coded = ''
+            word.clear()
+            encode()
+        else:
+            print(f"Working for letter {letter.upper()} and the code is {code}")
+            nato_coded += code
+            nato_coded += '-'
+            print(f"So, it is added {nato_coded}")
+    final_string = nato_coded.strip('-').rstrip('-')
+    print(f"Abd the final string is {final_string}")
+    return final_string
 
-print(a_vs_b)
+
+print(f"evo printamo {encode()}")
+

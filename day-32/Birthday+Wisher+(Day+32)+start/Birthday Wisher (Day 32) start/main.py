@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import datetime as dt
 import smtplib
 import random
@@ -17,3 +18,15 @@ if day_of_the_week == 1:
         connection.login(user=my_email, password=my_password)
         connection.sendmail(from_addr=my_email, to_addrs="nikola.bresliev@gmail.com",
                             msg=msg)
+=======
+import smtplib
+
+my_email = "nikola.pythonista@gmail.com"
+password = "ipezmywwuljoynfx"
+connection = smtplib.SMTP("smtp.gmail.com", 587)
+connection.ehlo()
+connection.starttls()
+connection.ehlo()
+connection.login(user=my_email, password=password)
+connection.sendmail(from_addr=my_email, to_addrs="nikola.bresliev@gmail.com", msg="Hello breee!!!")
+>>>>>>> main
