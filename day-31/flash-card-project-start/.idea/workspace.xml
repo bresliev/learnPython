@@ -2,49 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5a1a8d7-9c6e-4dc2-96d5-6654a62f6c53" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../day-29/password-manager-start/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-29/password-manager-start/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-29/password-manager-start/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-29/password-manager-start/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-29/password-manager-start/.idea/password-manager-start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-29/password-manager-start/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-29/password-manager-start/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-30/password-manager-JSON/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-30/password-manager-JSON/.idea/password-manager-JSON.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-32/Birthday+Wisher+(Day+32)+start/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-32/Birthday+Wisher+(Day+32)+start/.idea/Birthday+Wisher+(Day+32)+start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-32/Birthday+Wisher+(Day+32)+start/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-32/Birthday+Wisher+(Day+32)+start/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-32/Birthday+Wisher+(Day+32)+start/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-32/Birthday+Wisher+(Day+32)+start/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-32/Birthday+Wisher+(Day+32)+start/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-32/Birthday+Wisher+(Day+32)+start/Birthday Wisher (Day 32) start/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-32/Birthday+Wisher+(Day+32)+start/Birthday Wisher (Day 32) start/quotes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-32/birthday-wisher-extrahard-start/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-32/birthday-wisher-extrahard-start/.idea/birthday-wisher-extrahard-start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-32/birthday-wisher-extrahard-start/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-32/birthday-wisher-extrahard-start/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-32/birthday-wisher-extrahard-start/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-32/birthday-wisher-extrahard-start/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-32/birthday-wisher-extrahard-start/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-32/birthday-wisher-extrahard-start/birthdays.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-32/birthday-wisher-extrahard-start/letter_templates/letter_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-32/birthday-wisher-extrahard-start/letter_templates/letter_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-32/birthday-wisher-extrahard-start/letter_templates/letter_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-32/birthday-wisher-extrahard-start/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-33/interactive/.idea/interactive.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-33/interactive/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-33/issoverhead-start/.idea/issoverhead-start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-33/kanye-quotes-start/.idea/kanye-quotes-start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-33/kanye-something/.idea/kanye-something.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-33/kanye-something/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-34/quizzler-app-start/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-34/quizzler-app-start/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-34/quizzler-app-start/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-34/quizzler-app-start/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-34/quizzler-app-start/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-34/quizzler-app-start/.idea/quizzler-app-start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-34/quizzler-app-start/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day-30/password-manager-JSON/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-30/password-manager-JSON/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day-34/quizzler-app-start/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-34/quizzler-app-start/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day-34/quizzler-app-start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-34/quizzler-app-start/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day-34/quizzler-app-start/quiz_brain.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-34/quizzler-app-start/quiz_brain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day-34/quizzler-app-start/ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-34/quizzler-app-start/ui.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,13 +26,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Nikola/Learning/Python/appbrewery/day-30/password-manager-JSON"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Nikola/Learning/Python/appbrewery/day-30/password-manager-JSON&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Nikola\Learning\Python\appbrewery\day-31\flash-card-project-start\data" />
@@ -125,7 +88,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
+          <line>9</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
