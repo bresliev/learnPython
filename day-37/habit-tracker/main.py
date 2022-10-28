@@ -1,8 +1,7 @@
 import requests
 from datetime import datetime, timedelta
 
-pixela_endpoint = "https://pixe.la/v1/users"
-MY_TOKEN = "klsdafaskdlj123dd"
+
 MY_USERNAME = "nikolabresliev"
 GRAPH_ID = "graph01"
 headers = {

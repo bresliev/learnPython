@@ -3,7 +3,7 @@ from datetime import datetime
 import requests
 
 APP_ID = "3178cd07"
-API_KEY = "6865be22363a0659e5747c6c8a979a32"
+
 EXERCISE_ENDPOINT = "https://trackapi.nutritionix.com/v2/natural/exercise"
 USER_ID = "nikolabresliev"
 GENDER = "Male"

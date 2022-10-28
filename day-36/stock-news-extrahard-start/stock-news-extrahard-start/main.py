@@ -4,28 +4,7 @@ import time
 from datetime import timedelta
 import smtplib
 
-MY_PASSWORD = "ycngyrakpjgbhsxa"
-MY_FROM_EMAIL = "nikola.pythonista@gmail.com"
-MY_TO_EMAIL = "nikola.bresliev@gmail.com"
 
-STOCK = "TSLA"
-COMPANY_NAME = "Tesla Inc"
-#Alpha advantage
-STOCK_PRICE_API_KEY = "C1B61X6NCJIMDGY9"
-stock_api_params={
-    "function": "TIME_SERIES_INTRADAY",
-    "symbol": STOCK,
-    "interval": "60min",
-    "apikey": STOCK_PRICE_API_KEY
-    }
-
-STOCK_URL = "https://www.alphavantage.co/query"
-
-#https://newsapi.org/v2/everything?q=tesla&from=2022-09-26&sortBy=publishedAt&apiKey=7a7e6261ed874ac593db582bd55877af
-#News
-NEWS_API_KEY = "7a7e6261ed874ac593db582bd55877af"
-
-NEWS_URL = "https://newsapi.org/v2/everything"
 
 
 ## STEP 1: Use https://www.alphavantage.co
